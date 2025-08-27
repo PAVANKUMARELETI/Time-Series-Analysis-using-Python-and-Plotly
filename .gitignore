@@ -1,0 +1,48 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+
+# Data backup files
+*.csv.bak
+*.csv.orig
+*_backup.csv
+
+# Generated images (except our main output)
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.svg
+*.pdf
+!animated_chart.gif
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Backup files
+*.bak
+*.backup
+*.orig
