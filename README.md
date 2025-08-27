@@ -392,7 +392,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100" alt="Contact"/>
 
-### **Pavan** 
+### **PavanEleti** 
 *Data Scientist & Python Developer*
 
 <br>
@@ -432,6 +432,6 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ---
 
-**© 2025 Pavan | Time Series Analysis Project**
+**© 2025 PavanEleti | Time Series Analysis Project**
 
 </div>
