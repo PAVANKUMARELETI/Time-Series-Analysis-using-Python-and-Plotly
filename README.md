@@ -1,4 +1,4 @@
-# 📊 Time Series Analysis Using Python and Plotly
+# Time Series Analysis Using Python and Plotly
 
 <div align="center">
 
@@ -19,7 +19,7 @@
 
 ---
 
-### 🚀 An Interactive Journey Through Global Development Data
+###  An Interactive Journey Through Global Development Data
 
 *Explore 120+ years of socio-economic evolution across nations with stunning animated visualizations that reveal the intricate relationships between economic prosperity, health outcomes, and demographic changes worldwide.*
 
@@ -27,7 +27,7 @@
 
 </div>
 
-## 🌟 Project Highlights
+##  Project Highlights
 
 <table align="center">
 <tr>
@@ -93,42 +93,42 @@
 
 | **Library** | **Purpose** | **Version** |
 |-------------|-------------|-------------|
-| 🐍 **Python** | Core programming language | `3.11+` |
-| 🐼 **Pandas** | Data manipulation and analysis | `1.5+` |
-| 🔢 **NumPy** | Numerical computations | `1.21+` |
-| 📊 **Plotly Express** | Interactive visualizations | `5.0+` |
-| 🖼️ **Pillow (PIL)** | Image processing for GIF creation | `9.0+` |
-| ⚡ **Kaleido** | Static image export engine | `0.2+` |
-| 🌍 **pycountry-convert** | Country code conversions | `0.7+` |
+|  **Python** | Core programming language | `3.11+` |
+|  **Pandas** | Data manipulation and analysis | `1.5+` |
+|  **NumPy** | Numerical computations | `1.21+` |
+|  **Plotly Express** | Interactive visualizations | `5.0+` |
+|  **Pillow (PIL)** | Image processing for GIF creation | `9.0+` |
+|  **Kaleido** | Static image export engine | `0.2+` |
+|  **pycountry-convert** | Country code conversions | `0.7+` |
 
 </div>
 
-## 🚀 Quick Start Guide
+##  Quick Start Guide
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
 </div>
 
-### 📋 Prerequisites
+###  Prerequisites
 ```bash
-✅ Python 3.11 or higher
-✅ pip package manager  
-✅ Jupyter Notebook or JupyterLab
-✅ Git (optional)
+- Python 3.11 or higher
+- pip package manager  
+- Jupyter Notebook or JupyterLab
+- Git (optional)
 ```
 
-### ⚡ Installation Steps
+###  Installation Steps
 
 <details>
-<summary><b>🔽 Click to expand installation guide</b></summary>
+<summary><b> Click to expand installation guide</b></summary>
 
-#### 1️⃣ **Clone the Repository**
+#### 1️ **Clone the Repository**
 ```bash
 git clone https://github.com/pavaneletisj/time-series-analysis.git
 cd "Time Series Analysis using Python and Plotly"
 ```
 
-#### 2️⃣ **Set Up Virtual Environment**
+#### 2️ **Set Up Virtual Environment**
 ```bash
 # Windows
 python -m venv venv
@@ -139,19 +139,19 @@ python -m venv venv
 source venv/bin/activate
 ```
 
-#### 3️⃣ **Install Dependencies**
+#### 3️ **Install Dependencies**
 ```bash
 pip install -r requirements.txt
 ```
 
-#### 4️⃣ **Launch Jupyter**
+#### 4️ **Launch Jupyter**
 ```bash
 jupyter notebook
 # or
 jupyter lab
 ```
 
-#### 5️⃣ **Run the Analysis**
+#### 5️ **Run the Analysis**
 - Open `Time Series Analysis Using Python and Plotly.ipynb`
 - Execute cells sequentially (Ctrl+Shift+Enter)
 - Watch the magic happen! ✨
@@ -174,60 +174,60 @@ jupyter lab
 
 ```
 📦 Time Series Analysis using Python and Plotly
-├── 📊 gdp_pcap.csv                    # GDP per capita data
-├── 📊 life_expectancy.csv             # Life expectancy data  
-├── 📊 population.csv                  # Population data
+├──  gdp_pcap.csv                    # GDP per capita data
+├──  life_expectancy.csv             # Life expectancy data  
+├──  population.csv                  # Population data
 ├── 📓 Time Series Analysis Using Python and Plotly.ipynb  # Main notebook
-├── 📋 requirements.txt                # Python dependencies
-├── 📘 README.md                       # This file
-├── 🎬 animated_chart.gif             # Generated animation (after running)
+├──  requirements.txt                # Python dependencies
+├──  README.md                       # This file
+├──  animated_chart.gif             # Generated animation (after running)
 └── 📁 venv/                          # Virtual environment
 ```
 
 ---
 
-## 🎯 Analysis Workflow
+##  Analysis Workflow
 
-### 📥 Task 1-2: Data Import & Loading
+###  Task 1-2: Data Import & Loading
 - Import essential libraries
 - Load CSV datasets for GDP, life expectancy, and population
 
-### 🔍 Task 3: Data Assessment
+###  Task 3: Data Assessment
 - Perform exploratory data analysis
 - Check data types, missing values, and duplicates
 - Generate summary statistics
 
-### 🔄 Task 4-6: Data Transformation
+###  Task 4-6: Data Transformation
 - Unpivot data from wide to long format
 - Standardize units (k, M, B notation)
 - Correct data types for proper analysis
 
-### 🧹 Task 7-9: Data Cleaning
+###  Task 7-9: Data Cleaning
 - Create reusable data cleaning functions
 - Merge multiple datasets
 - Handle missing values and reset indices
 
-### 🗺️ Task 10-11: Geographic Enhancement
+###  Task 10-11: Geographic Enhancement
 - Generate continent information from country names
 - Filter data by relevant time periods (1900-2023)
 
-### 📊 Task 12-13: Visualization & Export
+###  Task 12-13: Visualization & Export
 - Create interactive animated scatter plot
 - Export animation as high-quality GIF
 
 ---
 
-## 📊 Visualization Features & Results
+##  Visualization Features & Results
 
 <div align="center">
 
-### 🎬 **Interactive Animation Elements**
+###  **Interactive Animation Elements**
 
 <table align="center">
 <tr>
 <td align="center" width="25%">
 <img src="https://user-images.githubusercontent.com/74038190/229223223-3b1d08c0-0e3f-4e8f-95fe-83cd4ce6a5b9.gif" width="60" alt="Animation"/>
-<br><b>🎬 Animation Controls</b>
+<br><b> Animation Controls</b>
 <br>Play/pause, timeline scrubbing
 </td>
 <td align="center" width="25%">
@@ -237,12 +237,12 @@ jupyter lab
 </td>
 <td align="center" width="25%">
 <img src="https://user-images.githubusercontent.com/74038190/229223249-4a8877fa-96c5-453b-9c17-72e6b0ea9de1.gif" width="60" alt="Hover"/>
-<br><b>📱 Hover Info</b>
+<br><b> Hover Info</b>
 <br>Country details on mouse hover
 </td>
 <td align="center" width="25%">
 <img src="https://user-images.githubusercontent.com/74038190/229223267-b6e22a05-c5b5-450f-b3b0-bb58b2fd5c83.gif" width="60" alt="Colors"/>
-<br><b>🎨 Color Coding</b>
+<br><b> Color Coding</b>
 <br>Continents by colors
 </td>
 </tr>
